@@ -85,7 +85,7 @@ terraform apply
 
 ## 📝 Notes
 
-This is a learning project from CAPACITI's Cloud & DevOps training program. Following AWS Well-Architected Framework principles.
+This is a learning project from "5 AWS Projects to Get You Hired" by Lefteris Karageorgiou through the CAPACITI's Cloud & DevOps training program. Following AWS Well-Architected Framework principles.
 
 ## 👨‍💻 Author
 
