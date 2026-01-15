@@ -6,7 +6,7 @@
 
 Production-grade VPC architecture built with Terraform, implementing AWS best practices for security and high availability.
 
-## 🏗️ Architecture
+## Architecture
 ```
 aws-infra-labs-vpc (10.0.0.0/16)
 ├─ Internet Gateway
@@ -18,7 +18,7 @@ aws-infra-labs-vpc (10.0.0.0/16)
    └─ Private Subnet 2 (10.0.12.0/24) - us-east-1b
 ```
 
-## 📦 Resources Created
+## Resources Created
 
 - **1 VPC** with DNS support enabled
 - **4 Subnets** across 2 Availability Zones
@@ -26,7 +26,7 @@ aws-infra-labs-vpc (10.0.0.0/16)
 - **2 Route Tables** (public and private)
 - **4 Route Table Associations**
 
-## 🚀 Deployment
+## Deployment
 
 ### Prerequisites
 - [Terraform](https://www.terraform.io/downloads) >= 1.0
@@ -49,7 +49,7 @@ terraform plan
 terraform apply
 ```
 
-## 🎯 What I Learned
+## What I Learned
 
 - Infrastructure as Code (IaC) with Terraform
 - AWS VPC networking and CIDR block planning
@@ -59,9 +59,9 @@ terraform apply
 - Terraform state management
 - IAM permissions and security best practices
 
-## 🔄 Project Status
+## Project Status
 
-**Day 1 Complete:** ✅ VPC Foundation
+**Day 1 Complete:** VPC Foundation
 - [x] VPC with CIDR 10.0.0.0/16
 - [x] Multi-AZ subnets (2 public, 2 private)
 - [x] Internet Gateway
@@ -69,31 +69,31 @@ terraform apply
 
 **Day 2 Coming:** NAT Gateways & Security Groups
 
-## 📚 Technologies Used
+## Technologies Used
 
 - **Terraform** - Infrastructure as Code
 - **AWS VPC** - Virtual Private Cloud
 - **AWS EC2** - Compute services
 - **HCL** - HashiCorp Configuration Language
 
-## 🛡️ Security Best Practices
+## Security Best Practices
 
 - Private subnets for sensitive workloads
 - Multi-AZ deployment for high availability
 - Least-privilege IAM permissions
 - Infrastructure defined as code (auditable, repeatable)
 
-## 📝 Notes
+## Notes
 
 This is a learning project from "5 AWS Projects to Get You Hired" by Lefteris Karageorgiou through the CAPACITI's Cloud & DevOps training program. Following AWS Well-Architected Framework principles.
 
-## 👨‍💻 Author
+## Author
 
 **Thato Rapholo**
 - Portfolio: [https://ddj6jvqxzj0e2.cloudfront.net](https://ddj6jvqxzj0e2.cloudfront.net)
 - LinkedIn: [linkedin.com/in/thato-rapholo](https://www.linkedin.com/in/thato-rapholo/)
 - GitHub: [@Trapholo01](https://github.com/Trapholo01)
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
