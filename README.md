@@ -96,4 +96,4 @@ This is a learning project from "5 AWS Projects to Get You Hired" by Lefteris Ka
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is for educational purposes.
