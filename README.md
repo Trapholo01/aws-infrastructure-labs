@@ -6,10 +6,9 @@
 Production-grade VPC architecture built with Terraform, implementing AWS best practices for security and high availability.
 
 ## Architecture
-```
+
 ![Architecture](architecture diagram/aws-infra-labs-diagram.png)
 
-```
 
 ## Resources Created
 
