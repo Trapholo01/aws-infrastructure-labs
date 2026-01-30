@@ -7,14 +7,8 @@ Production-grade VPC architecture built with Terraform, implementing AWS best pr
 
 ## Architecture
 ```
-aws-infra-labs-vpc (10.0.0.0/16)
-├─ Internet Gateway
-├─ Public Subnets (Multi-AZ)
-│  ├─ Public Subnet 1 (10.0.1.0/24) - us-east-1a
-│  └─ Public Subnet 2 (10.0.2.0/24) - us-east-1b
-└─ Private Subnets (Multi-AZ)
-   ├─ Private Subnet 1 (10.0.11.0/24) - us-east-1a
-   └─ Private Subnet 2 (10.0.12.0/24) - us-east-1b
+![Architecture](architecture diagram/aws-infra-labs-diagram.png)
+
 ```
 
 ## Resources Created
