@@ -2,7 +2,6 @@
 
 [![Terraform](https://img.shields.io/badge/Terraform-v1.7+-623CE4?logo=terraform)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/AWS-VPC-FF9900?logo=amazon-aws)](https://aws.amazon.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Production-grade VPC architecture built with Terraform, implementing AWS best practices for security and high availability.
 
