@@ -7,7 +7,7 @@ Production-grade VPC architecture built with Terraform, implementing AWS best pr
 
 ## Architecture
 
-![Architecture](architecture diagram/aws-infra-labs-diagram.png)
+![Architecture](https://github.com/Trapholo01/aws-infrastructure-labs/blob/a67a05a59f347e83a47c883e94fe615607154c08/architecture%20diagram/aws-infra-labs-diagram.png)
 
 
 ## Resources Created
